@@ -1,5 +1,4 @@
-package com.example.jsonservice.model;
-
+package com.example.model;
 
 public class Message {
     private String content;
